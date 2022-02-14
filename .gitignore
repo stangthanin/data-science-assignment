@@ -2,3 +2,5 @@
 datasets/*
 week*/*
 *.csv
+.vscode/settings.json
+course-material/
