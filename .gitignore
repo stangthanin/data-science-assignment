@@ -4,3 +4,6 @@ week*/*
 *.csv
 .vscode/settings.json
 course-material/
+*.mp4
+*.docx
+*.pdf
